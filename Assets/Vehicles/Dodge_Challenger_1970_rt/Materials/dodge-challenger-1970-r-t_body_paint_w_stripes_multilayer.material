@@ -1,0 +1,36 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardMultilayerPBR.materialtype",
+    "materialTypeVersion": 4,
+    "propertyValues": {
+        "blend.enableLayer2": true,
+        "blend.textureMap": "textures/paint_layer_mask.png",
+        "layer1.baseColor.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "layer1.roughness.factor": 0.28999999165534973,
+        "layer1.roughness.lowerBound": 0.5299999713897705,
+        "layer1.roughness.textureMap": "textures/paint_layer_roughness.png",
+        "layer1.roughness.upperBound": 0.38999998569488525,
+        "layer1.specularF0.factor": 0.5199999809265137,
+        "layer1.uv.tileU": 10.0,
+        "layer1.uv.tileV": 10.0,
+        "layer2.baseColor.color": [
+            0.6431372761726379,
+            0.5290912985801697,
+            0.0,
+            1.0
+        ],
+        "layer2.normal.factor": 0.05999999865889549,
+        "layer2.occlusion.diffuseFactor": 0.14000000059604645,
+        "layer2.roughness.factor": 0.2199999988079071,
+        "layer2.roughness.lowerBound": 0.03999999910593033,
+        "layer2.roughness.textureMap": "textures/paint_layer_roughness.png",
+        "layer2.roughness.upperBound": 0.25999999046325684,
+        "layer2.specularF0.factor": 1.0,
+        "layer2.uv.tileU": 20.0,
+        "layer2.uv.tileV": 20.0
+    }
+}

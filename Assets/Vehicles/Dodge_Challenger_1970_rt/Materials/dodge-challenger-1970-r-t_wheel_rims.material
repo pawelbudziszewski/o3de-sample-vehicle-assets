@@ -1,0 +1,23 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.574288547039032,
+            0.574288547039032,
+            0.574288547039032,
+            1.0
+        ],
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "metallic.factor": 1.0,
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.07000000029802322,
+        "specularF0.factor": 0.7099999785423279
+    }
+}

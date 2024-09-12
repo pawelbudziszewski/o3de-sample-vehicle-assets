@@ -1,0 +1,4079 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "Dodge_Challenger_1970_RT",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12956081636753680623
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 6090653314982680236
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 11060926842167533150,
+                "Child Entity Order": [
+                    "Entity_[382007107989]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 16527850422676035206
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 11557111060185000101
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 9350601817416882686
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 6484634221495124949
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 18315868254410083506
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 10528375362073447511
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 5770441707573390426,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[339057435029]": {
+            "Id": "Entity_[339057435029]",
+            "Name": "in",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 16176159874543571527,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Color": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Intensity": 5.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 0.5
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4063991546309245376
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3600962835446540888
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5132586599752776792
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1074776016295108666
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2417408420156403771
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15391367095101666194
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6687008010533497544
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7381624894290258871
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 7221696015635318615,
+                    "ShapeColor": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.05999999865889549,
+                            "Height": 0.6000000238418579
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 14562166101936994543,
+                    "Parent Entity": "Entity_[399186977173]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            90.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[343352402325]": {
+            "Id": "Entity_[343352402325]",
+            "Name": "out",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 16176159874543571527,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Color": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Intensity": 10.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 3.2603678703308105
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4063991546309245376
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3600962835446540888
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5132586599752776792
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1074776016295108666
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2417408420156403771
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15391367095101666194
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6687008010533497544
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7381624894290258871
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 7221696015635318615,
+                    "ShapeColor": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.05999999865889549,
+                            "Height": 0.6000000238418579
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 14562166101936994543,
+                    "Parent Entity": "Entity_[502266192277]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.000003814697265625,
+                            -0.0000019073486328125,
+                            -0.00000762939453125
+                        ],
+                        "Rotate": [
+                            0.0,
+                            -89.99993896484375,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[347647369621]": {
+            "Id": "Entity_[347647369621]",
+            "Name": "out",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 468483830015000790,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 2,
+                            "Intensity": 800.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 40.0,
+                            "EnableShutters": true,
+                            "InnerShutterAngleDegrees": 15.71500015258789,
+                            "OuterShutterAngleDegrees": 68.5199966430664,
+                            "Enable Shadow": true,
+                            "Shadowmap Max Size": "Size2048",
+                            "Shadow Filter Method": 1,
+                            "Filtering Sample Count": 31
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6861057479734481306
+                },
+                "EditorDiskShapeComponent": {
+                    "$type": "EditorDiskShapeComponent",
+                    "Id": 14865847895352631112,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "DiskShape": {
+                        "Configuration": {
+                            "Radius": 0.05000000074505806
+                        }
+                    }
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6799368063914449795
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13276114936575916938
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14778505883098320264
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 59307524163134529
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16795587076641564822
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7488632914919846084
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 872822221837727210
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9061194881146187455,
+                    "Parent Entity": "Entity_[510856126869]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.004920005798339844,
+                            -0.000003814697265625,
+                            0.2732810974121094
+                        ],
+                        "Rotate": [
+                            0.00041182636050507426,
+                            81.90272521972656,
+                            -0.0003641136281657964
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[351942336917]": {
+            "Id": "Entity_[351942336917]",
+            "Name": "out",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 16176159874543571527,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Color": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Intensity": 10.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 3.2603678703308105
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4063991546309245376
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3600962835446540888
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5132586599752776792
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1074776016295108666
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2417408420156403771
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15391367095101666194
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6687008010533497544
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7381624894290258871
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 7221696015635318615,
+                    "ShapeColor": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.05999999865889549,
+                            "Height": 0.6000000238418579
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 14562166101936994543,
+                    "Parent Entity": "Entity_[399186977173]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -90.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[356237304213]": {
+            "Id": "Entity_[356237304213]",
+            "Name": "in",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 16176159874543571527,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Color": [
+                                1.0,
+                                0.0,
+                                0.0
+                            ],
+                            "Intensity": 5.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 0.5
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4063991546309245376
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3600962835446540888
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5132586599752776792
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1074776016295108666
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2417408420156403771
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15391367095101666194
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6687008010533497544
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7381624894290258871
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 7221696015635318615,
+                    "ShapeColor": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.05999999865889549,
+                            "Height": 0.6000000238418579
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 14562166101936994543,
+                    "Parent Entity": "Entity_[502266192277]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.000003814697265625,
+                            -0.0000019073486328125,
+                            -0.00000762939453125
+                        ],
+                        "Rotate": [
+                            0.0,
+                            89.99993896484375,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[360532271509]": {
+            "Id": "Entity_[360532271509]",
+            "Name": "window",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 3018390450165566777,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Intensity": 0.5,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.2999999523162842
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4577039003459433476
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 4298461621658473547
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 4221154101917722089
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10948602490797251480
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 9355983486251885297
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11400147374090228202
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 5076626111270536499
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2789003562958966448
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 11289071909804278392,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.25,
+                            "Height": 0.8999999761581421
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17402028972433251124,
+                    "Parent Entity": "Entity_[420661813653]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.12072181701660156,
+                            -0.7229855060577393,
+                            -0.08910107612609863
+                        ],
+                        "Rotate": [
+                            -109.99970245361328,
+                            -0.00003585849117371254,
+                            -89.99994659423828
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[364827238805]": {
+            "Id": "Entity_[364827238805]",
+            "Name": "body",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 14444887277895564805,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{CC9E2468-3B20-545D-B020-873EB593B414}",
+                                    "subId": 280512135
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/dodge-challenger-1970-r-t_body.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6093913655160892496
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6005394518169950298
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 8060119150178831353
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 9628324018897888493
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 10874939289029756850
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 9777845364285972522,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 57040514
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{36AAE206-6739-5B72-A73F-5697AD7D06AD}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_deform.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 59516591
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4D427CC9-A6D8-5E37-8E6A-FA0D3E541E27}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_plastic.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 69411296
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{8FCCF9A3-0271-574D-A3B6-26813B46A840}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_red_reflect.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 140554721
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{38A25483-CF9D-59C5-BB50-1C0C68748D60}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_frontglass_outher.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 303374423
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{F705BE5F-698F-59E1-98DA-2884876FF700}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_park_light.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 336242622
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5CD87EF1-8EAE-55B2-A49B-6C555E5766BE}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_interior_fur.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 411446250
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{A8C4132F-A618-5A00-981F-00848DF94194}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_exhaust_end.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 451588509
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{31835BB2-549A-5FF9-B0F1-3E2CED23EFF7}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_engine.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 604036258
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{AB4A0B0E-B285-5B9C-ABB4-F2CF74EA1341}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_windshield.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 657853823
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{0CFA6895-AE8B-56AC-B04C-E14CAA68BBBD}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_leather_black.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 789941845
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{7A0F7FB0-6E80-5967-9A38-D89B90C2C9EC}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_cchrome_withbolts.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 842307780
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{CEE075F6-5C12-5E19-9BE6-34ECA1BAC28B}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_paintedsteel.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 849737813
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{15FD47E6-F4E4-5140-AE82-E749F4F0FE0B}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_rradiator.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 891576581
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{E98F5F04-E3AD-57F5-87CC-BE8F12FE2157}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_reflect.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 918340152
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{A1C53546-B55F-5DD4-BEE3-D2C5D4B1EE38}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_engine_room.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1012336278
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{489CEE75-B04E-557E-BE20-F5B4010F2F89}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_windshield_inner.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1024061961
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{881BC4E8-13F3-5F8F-B75E-71925175E2B6}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_b-light.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1026906759
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{227E09E8-4706-569A-AE10-004C9CB022B3}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_cchrome.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1080956273
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4F1D488E-BD63-58F2-A7C6-4F856D862147}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_gauges.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1192699121
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{C27D724A-D3F2-5484-8A05-E32B13390EE6}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_yellowglass.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1538475349
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{46CA3391-0535-567B-A7E7-9D6351724C3A}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_mirror.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1545257685
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{A297AFAF-5DEA-59ED-AAD1-B24732CA6292}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_wood.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 1962556194
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{28D9BBEC-C9C9-5A7C-A747-8D3B2482B192}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_mirror_deformed.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2363550345
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{03CC7D51-4817-5858-96EB-5AA4F5ACB9E4}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_glass.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2426834013
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6A2EC879-371B-5F27-BB0D-D39C67DBA1CD}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_park_light_glass.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2481147549
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{1AF8CDE8-81DD-5478-B2D3-00E11AFD6E32}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_rear_lights.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2941789957
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5FC1FAA2-A8B1-587D-8C47-B79D988B8E1D}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_plastic_red.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3022921923
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{D66B9C3D-8109-545D-9DCB-A528D79309D4}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_head_lights.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3041049823
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{F05A5F4C-F3D2-5C3B-BC47-A09FB1CD6601}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_paint.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3047393224
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{B616448B-9B41-50AF-8AD0-1A49DADF985B}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_lock.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3083122413
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{0CFA6895-AE8B-56AC-B04C-E14CAA68BBBD}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_leather_black.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3107942080
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{2B265DAD-DD03-5FBF-855D-BC8CB85387D1}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_plastic_black.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3171295638
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{BFB45587-1F70-5431-BAA1-5292B9A2D564}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_paint_w_stripes_multilayer.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3229847564
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{0CFA6895-AE8B-56AC-B04C-E14CAA68BBBD}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_leather_black.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3250564488
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{EEB08B2E-180F-5A7B-B094-1A6907D2E0D0}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_brushed_alumini.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3459783776
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{CB1C19B4-C98C-519A-AC80-79B023D0C81C}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_metal.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3590104909
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{BFB45587-1F70-5431-BAA1-5292B9A2D564}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_paint_w_stripes_multilayer.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3694304342
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{69699D6E-272A-5EA2-AA18-AD2642BE4885}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_frontglass_inner.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3904571781
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6F38796C-7854-5D9E-884B-72B0E7A44136}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_lisenceplate.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3935813100
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{56876D36-01F7-5CF6-9647-587207CBE2FB}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_wire_001.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3944172841
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{78D1CB53-5EDC-5DB0-A5A6-0A437FA1C6D7}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_interiorlight.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4034366398
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{2A61B709-5F8E-5047-908C-410611256399}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_reverse_light.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4057268963
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{2D2068F1-5D42-5047-B7A6-86DBEE09E218}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_fabric.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4180107804
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{CB1C19B4-C98C-519A-AC80-79B023D0C81C}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_metal.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4192469838
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{A1C53546-B55F-5DD4-BEE3-D2C5D4B1EE38}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_engine_room.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4224731018
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6F3387BD-5AB9-5D70-8631-ED4878FD6EEE}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_blight_withe.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4225053223
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{BFB45587-1F70-5431-BAA1-5292B9A2D564}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_paint_w_stripes_multilayer.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 10118451609021129992
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 8864016519498631073
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 15304537376443972904
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 6890258635452296379,
+                    "Parent Entity": "Entity_[497971224981]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            -90.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[369122206101]": {
+            "Id": "Entity_[369122206101]",
+            "Name": "window",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 3018390450165566777,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Intensity": 0.5,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.2999999523162842
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4577039003459433476
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 4298461621658473547
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 4221154101917722089
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10948602490797251480
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 9355983486251885297
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11400147374090228202
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 5076626111270536499
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2789003562958966448
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 11289071909804278392,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.25,
+                            "Height": 0.8999999761581421
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17402028972433251124,
+                    "Parent Entity": "Entity_[420661813653]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.12072181701660156,
+                            0.7269359827041626,
+                            -0.08910107612609863
+                        ],
+                        "Rotate": [
+                            109.99994659423828,
+                            -0.000005122641596244648,
+                            89.99996948242188
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[373417173397]": {
+            "Id": "Entity_[373417173397]",
+            "Name": "ForntL",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6861057479734481306
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6799368063914449795
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13276114936575916938,
+                    "Child Entity Order": [
+                        "Entity_[489381290389]",
+                        "Entity_[476496388501]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14778505883098320264
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 59307524163134529
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16795587076641564822
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7488632914919846084
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 872822221837727210
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9061194881146187455,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            2.3701915740966797,
+                            0.7923374176025391,
+                            0.8659515380859375
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[377712140693]": {
+            "Id": "Entity_[377712140693]",
+            "Name": "Lookat target",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4254463497782329822
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9082432651259440611
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 10848284880888613248
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10099290243429441393
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2162785411841327038
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11390885388964037928
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12630235576260464410
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3591309259429535838
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2328382033239687673,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.6686859130859375,
+                            0.3286561965942383,
+                            1.1997230052947998
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[382007107989]": {
+            "Id": "Entity_[382007107989]",
+            "Name": "Dodge Challenger 1970 RT",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 8996962860562374757
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 15296217446898701420
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 797381291075603359,
+                    "Child Entity Order": [
+                        "Entity_[442136650133]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14648773762349536933,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 17919974012091786869
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 16668877298142582996
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 14181004337498416496
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 4908031381504428380
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 16516273534468255543
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17919974012091786869,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        },
+        "Entity_[386302075285]": {
+            "Id": "Entity_[386302075285]",
+            "Name": "wheel",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 9087070312694647220,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{E5BE7B70-665E-53CE-B3BC-07E4FC745BF0}",
+                                    "subId": 276390047
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/default_dodge_challenger_1970_r_t_wheel_5545d068_d957_502a_aa39_d1960668a6e5_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11337102967724719955
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9218863732286865302
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 15185064760846553313
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 15458217329255871772
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5664811462394261436
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 3427306484435212220,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 428565267
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{63F17D39-4A45-5BBD-87C1-2D0249D02691}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 464346515
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6D4D0AF9-7391-5232-84A4-224F281D329E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_003.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2559889796
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{C3C550FB-6CBF-5107-914E-9B0F89D45EB9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_rims.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4031072954
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{E0767CE2-EFD1-5978-A00A-C3B1228D32B9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_metal_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4078897097
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5450BA13-4C1B-5FC8-B468-6922A4A92D6E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_markings_002.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 14562456888372237790
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16035645191553322793
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1409339481378546763
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7480428953143488107,
+                    "Parent Entity": "Entity_[424956780949]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            0.0,
+                            90.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[390597042581]": {
+            "Id": "Entity_[390597042581]",
+            "Name": "wheel",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 9087070312694647220,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{E5BE7B70-665E-53CE-B3BC-07E4FC745BF0}",
+                                    "subId": 276390047
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/default_dodge_challenger_1970_r_t_wheel_5545d068_d957_502a_aa39_d1960668a6e5_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11337102967724719955
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9218863732286865302
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 15185064760846553313
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 15458217329255871772
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5664811462394261436
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 3849660028627880727,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 428565267
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{63F17D39-4A45-5BBD-87C1-2D0249D02691}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 464346515
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6D4D0AF9-7391-5232-84A4-224F281D329E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_003.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2559889796
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{C3C550FB-6CBF-5107-914E-9B0F89D45EB9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_rims.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4031072954
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{E0767CE2-EFD1-5978-A00A-C3B1228D32B9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_metal_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4078897097
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5450BA13-4C1B-5FC8-B468-6922A4A92D6E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_markings_002.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 14562456888372237790
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16035645191553322793
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1409339481378546763
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7480428953143488107,
+                    "Parent Entity": "Entity_[459316519317]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -0.00005554123345063999,
+                            -90.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[394892009877]": {
+            "Id": "Entity_[394892009877]",
+            "Name": "Wheel FR",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6473794874318425204
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6614724187909632932
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1835394047233612953,
+                    "Child Entity Order": [
+                        "Entity_[459316519317]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8240714201106163722
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 406490581108139709
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7665895112430571573
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10451802743475122258
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1594582421563855122
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2469973476832422352,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            1.4137532711029053,
+                            -0.8031694889068604,
+                            1.1011857986450195
+                        ]
+                    }
+                },
+                "WheelEditorComponent": {
+                    "$type": "WheelEditorComponent",
+                    "Id": 10899002561568013930,
+                    "Configuration": {
+                        "wheelVisualEntityId": "Entity_[459316519317]",
+                        "springStiffness": 110000.0,
+                        "suspensionDamping": 8000.0,
+                        "springRestLength": 0.6200000047683716,
+                        "wheelRadius": 0.33500000834465027,
+                        "lateralFrictionC1": 1.0,
+                        "lateralFrictionC2": 2.0,
+                        "lateralFrictionC3": 1.0
+                    }
+                }
+            }
+        },
+        "Entity_[399186977173]": {
+            "Id": "Entity_[399186977173]",
+            "Name": "RearL",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12615228857432414035
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 7396613527619258323
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 12622179896636312193,
+                    "Child Entity Order": [
+                        "Entity_[339057435029]",
+                        "Entity_[351942336917]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17360873370414537965
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 16069576086185387856
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7205419633665936411
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 3172029176734828377
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7404217053793238491
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 10293472287391695595,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            -2.4495620727539063,
+                            0.510986328125,
+                            0.9394149780273438
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[403481944469]": {
+            "Id": "Entity_[403481944469]",
+            "Name": "in",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 18216885296071441482,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 2,
+                            "Intensity": 50.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 0.5,
+                            "Enable Shadow": true
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10532599856585604986
+                },
+                "EditorDiskShapeComponent": {
+                    "$type": "EditorDiskShapeComponent",
+                    "Id": 15276391739632654483,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "DiskShape": {
+                        "Configuration": {
+                            "Radius": 0.05000000074505806
+                        }
+                    }
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13084248621596573481
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16400913650005942726
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 12556479095705061168
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6018640719749055742
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15803210587050564768
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 17190178005879485328
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 16947478707555544392
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 15731684454514396911,
+                    "Parent Entity": "Entity_[510856126869]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -90.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[407776911765]": {
+            "Id": "Entity_[407776911765]",
+            "Name": "wheel",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 9087070312694647220,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{E5BE7B70-665E-53CE-B3BC-07E4FC745BF0}",
+                                    "subId": 276390047
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/default_dodge_challenger_1970_r_t_wheel_5545d068_d957_502a_aa39_d1960668a6e5_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11337102967724719955
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9218863732286865302
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 15185064760846553313
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 15458217329255871772
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5664811462394261436
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 5701639150064140952,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 428565267
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{63F17D39-4A45-5BBD-87C1-2D0249D02691}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 464346515
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6D4D0AF9-7391-5232-84A4-224F281D329E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_003.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2559889796
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{C3C550FB-6CBF-5107-914E-9B0F89D45EB9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_rims.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4031072954
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{E0767CE2-EFD1-5978-A00A-C3B1228D32B9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_metal_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4078897097
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5450BA13-4C1B-5FC8-B468-6922A4A92D6E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_markings_002.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 14562456888372237790
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16035645191553322793
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1409339481378546763
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7480428953143488107,
+                    "Parent Entity": "Entity_[429251748245]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -0.00005554123345063999,
+                            -90.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[412071879061]": {
+            "Id": "Entity_[412071879061]",
+            "Name": "Wheel RL",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6473794874318425204
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6614724187909632932
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1835394047233612953,
+                    "Child Entity Order": [
+                        "Entity_[424956780949]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8240714201106163722
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 406490581108139709
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7665895112430571573
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10451802743475122258
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1594582421563855122
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2469973476832422352,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            -1.4203357696533203,
+                            0.8031694889068604,
+                            1.1011857986450195
+                        ]
+                    }
+                },
+                "WheelEditorComponent": {
+                    "$type": "WheelEditorComponent",
+                    "Id": 9179355210847407426,
+                    "Configuration": {
+                        "wheelVisualEntityId": "Entity_[424956780949]",
+                        "springStiffness": 110000.0,
+                        "suspensionDamping": 8000.0,
+                        "springRestLength": 0.6200000047683716,
+                        "wheelRadius": 0.33500000834465027,
+                        "lateralFrictionC1": 1.0,
+                        "lateralFrictionC2": 2.0,
+                        "lateralFrictionC3": 1.0
+                    }
+                }
+            }
+        },
+        "Entity_[416366846357]": {
+            "Id": "Entity_[416366846357]",
+            "Name": "wheel",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 9087070312694647220,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{E5BE7B70-665E-53CE-B3BC-07E4FC745BF0}",
+                                    "subId": 276390047
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/default_dodge_challenger_1970_r_t_wheel_5545d068_d957_502a_aa39_d1960668a6e5_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 11337102967724719955
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9218863732286865302
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 15185064760846553313
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 15458217329255871772
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5664811462394261436
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 6682937224831596052,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 428565267
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{63F17D39-4A45-5BBD-87C1-2D0249D02691}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 464346515
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{6D4D0AF9-7391-5232-84A4-224F281D329E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_pattern_003.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2559889796
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{C3C550FB-6CBF-5107-914E-9B0F89D45EB9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_rims.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4031072954
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{E0767CE2-EFD1-5978-A00A-C3B1228D32B9}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_metal_004.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4078897097
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{5450BA13-4C1B-5FC8-B468-6922A4A92D6E}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_wheel_markings_002.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 14562456888372237790
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 16035645191553322793
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1409339481378546763
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7480428953143488107,
+                    "Parent Entity": "Entity_[455021552021]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -0.00005554123345063999,
+                            90.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[420661813653]": {
+            "Id": "Entity_[420661813653]",
+            "Name": "interrior light",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 17365312224437439881
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 2209540228228666382
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 14884273445605968799,
+                    "Child Entity Order": [
+                        "Entity_[450726584725]",
+                        "Entity_[437841682837]",
+                        "Entity_[369122206101]",
+                        "Entity_[360532271509]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1533423031826193762
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 11837017460279233071
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 2051122725766066822
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 8613421244666534295
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 6097917245708205781
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 1982097730557500974,
+                    "Parent Entity": "Entity_[497971224981]",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.3356151580810547,
+                            4.76837158203125e-7,
+                            1.119384765625
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[424956780949]": {
+            "Id": "Entity_[424956780949]",
+            "Name": "visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 7607729437509273883
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6705423196613220887
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16724197551262999273,
+                    "Child Entity Order": [
+                        "Entity_[386302075285]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 18296519586406670404
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14148577333280851992
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12514521100002153153
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12979015682051848589
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13598578828235310160
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9020595613711558189,
+                    "Parent Entity": "Entity_[412071879061]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -0.6182255148887634
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[429251748245]": {
+            "Id": "Entity_[429251748245]",
+            "Name": "visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 7607729437509273883
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6705423196613220887
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16724197551262999273,
+                    "Child Entity Order": [
+                        "Entity_[407776911765]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 18296519586406670404
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14148577333280851992
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12514521100002153153
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12979015682051848589
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13598578828235310160
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9020595613711558189,
+                    "Parent Entity": "Entity_[467906453909]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -0.6182255148887634
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[433546715541]": {
+            "Id": "Entity_[433546715541]",
+            "Name": "Camera",
+            "Components": {
+                "Component_[11895140916889160460]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 11895140916889160460
+                },
+                "Component_[16880285896855930892]": {
+                    "$type": "{CA11DA46-29FF-4083-B5F6-E02C3A8C3A3D} EditorCameraComponent",
+                    "Id": 16880285896855930892,
+                    "Controller": {
+                        "Configuration": {
+                            "Field of View": 40.0
+                        }
+                    }
+                },
+                "Component_[17187464423780271193]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 17187464423780271193
+                },
+                "Component_[17495696818315413311]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17495696818315413311
+                },
+                "Component_[18086214374043522055]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 18086214374043522055,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            -6.064445495605469,
+                            2.9187188148498535,
+                            2.634089469909668
+                        ],
+                        "Rotate": [
+                            4.083105087280273,
+                            10.486774444580078,
+                            -111.41531372070313
+                        ]
+                    }
+                },
+                "Component_[2654521436129313160]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2654521436129313160
+                },
+                "Component_[5265045084611556958]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 5265045084611556958
+                },
+                "Component_[7169798125182238623]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7169798125182238623
+                },
+                "Component_[7255796294953281766]": {
+                    "$type": "GenericComponentWrapper",
+                    "Id": 7255796294953281766,
+                    "m_template": {
+                        "$type": "FlyCameraInputComponent",
+                        "Move Speed": 2.0,
+                        "Rotation Speed": 1.0
+                    }
+                },
+                "Component_[8866210352157164042]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8866210352157164042
+                },
+                "Component_[9129253381063760879]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 9129253381063760879
+                },
+                "EditorLookAtComponent": {
+                    "$type": "EditorLookAtComponent",
+                    "Id": 16015287661248262622,
+                    "Target": "Entity_[377712140693]",
+                    "ForwardAxis": 2
+                }
+            }
+        },
+        "Entity_[437841682837]": {
+            "Id": "Entity_[437841682837]",
+            "Name": "window",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 3018390450165566777,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Intensity": 0.5,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.2999999523162842
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4577039003459433476
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 4298461621658473547
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 4221154101917722089
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10948602490797251480
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 9355983486251885297
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11400147374090228202
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 5076626111270536499
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2789003562958966448
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 11289071909804278392,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.20000000298023224,
+                            "Height": 1.100000023841858
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17402028972433251124,
+                    "Parent Entity": "Entity_[420661813653]",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.917686939239502,
+                            0.0,
+                            -0.01768958568572998
+                        ],
+                        "Rotate": [
+                            -179.9998779296875,
+                            29.99920082092285,
+                            -0.000011083686331403442
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[442136650133]": {
+            "Id": "Entity_[442136650133]",
+            "Name": "Dodge Challenger 1970 RT",
+            "Components": {
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 9645192437742455535,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            2.1499664783477783,
+                            -0.020129770040512085,
+                            0.6867486834526062
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                0.4491889774799347,
+                                1.5122616291046143,
+                                0.48085957765579224
+                            ]
+                        }
+                    }
+                },
+                "EditorColliderComponent_2": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12112227680626079938,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            -2.3040943145751953,
+                            -0.020129799842834473,
+                            0.6867486834526062
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                0.4491890072822571,
+                                1.5122616291046143,
+                                0.4808596074581146
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12787731211756939477
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16688326708772623813
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 17721843078704858095,
+                    "Child Entity Order": [
+                        "Entity_[433546715541]",
+                        "Entity_[497971224981]",
+                        "Entity_[472201421205]",
+                        "Entity_[394892009877]",
+                        "Entity_[467906453909]",
+                        "Entity_[412071879061]",
+                        "Entity_[377712140693]",
+                        "Entity_[480791355797]",
+                        "Entity_[446431617429]",
+                        "Entity_[515151094165]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 16163339600005678886,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2859793900198021418
+                        },
+                        {
+                            "ComponentId": 7103691324419638659,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 14078790071725604940,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 9765969535848270269,
+                            "SortIndex": 3
+                        },
+                        {
+                            "ComponentId": 9645192437742455535,
+                            "SortIndex": 4
+                        },
+                        {
+                            "ComponentId": 12112227680626079938,
+                            "SortIndex": 5
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 16534584097146892112
+                },
+                "EditorMeshColliderComponent": {
+                    "$type": "EditorMeshColliderComponent",
+                    "Id": 9765969535848270269,
+                    "ColliderConfiguration": {
+                        "Position": [
+                            0.0,
+                            0.0,
+                            0.24664950370788574
+                        ],
+                        "Rotation": [
+                            0.0,
+                            0.0,
+                            0.7071067690849304,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "DefaultMaterial"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{9D404CA4-CE6C-582C-BF40-6921567691F1}",
+                                    "subId": 3443976934
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/dodge-challenger-1970-r-t_collider.fbx.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{9D404CA4-CE6C-582C-BF40-6921567691F1}",
+                                        "subId": 3443976934
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "vehicles/dodge_challenger_1970_rt/models/dodge-challenger-1970-r-t_collider.fbx.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 8128422077285171322
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11360813670609830893
+                },
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 14078790071725604940,
+                    "Configuration": {
+                        "entityId": "",
+                        "Linear damping": 0.11999999731779099,
+                        "Compute Mass": false,
+                        "Mass": 1700.0001220703125,
+                        "Compute COM": false,
+                        "Centre of mass offset": [
+                            0.0,
+                            0.0,
+                            0.6000000238418579
+                        ],
+                        "Compute inertia": false,
+                        "Inertia tensor": [
+                            999.9999389648438,
+                            0.0,
+                            0.0,
+                            0.0,
+                            1999.9998779296875,
+                            0.0,
+                            0.0,
+                            0.0,
+                            1999.9998779296875
+                        ],
+                        "Debug Draw Center of Mass": true
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1516055637408589171
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2859793900198021418,
+                    "Parent Entity": "Entity_[382007107989]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -2.9802322387695313e-8
+                        ]
+                    }
+                },
+                "VehicleEditorComponent": {
+                    "$type": "VehicleEditorComponent",
+                    "Id": 7103691324419638659,
+                    "Configuration": {
+                        "maxAcceleration": 5.0,
+                        "maxVelocity": 50.0,
+                        "maxSteeringChangeRate": 0.003000000026077032,
+                        "frontAxleWheels": [
+                            "Entity_[472201421205]",
+                            "Entity_[394892009877]"
+                        ],
+                        "rearAxleWheels": [
+                            "Entity_[412071879061]",
+                            "Entity_[467906453909]"
+                        ],
+                        "rearWheelsDrive": true,
+                        "steeringWheel": "Entity_[446431617429]"
+                    }
+                }
+            }
+        },
+        "Entity_[446431617429]": {
+            "Id": "Entity_[446431617429]",
+            "Name": "Steering wheel",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 2105585813452832269
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 2243228211549219080
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 6124733040011484618,
+                    "Child Entity Order": [
+                        "Entity_[485086323093]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 2766888016950323365
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13294693313104603983
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11928634432618300414
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 17163622184964744624
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 12468736607210925780
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2220638964713798105,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.19416379928588867,
+                            0.40464305877685547,
+                            1.0344853401184082
+                        ],
+                        "Rotate": [
+                            -0.00002806798329402227,
+                            19.44527816772461,
+                            89.99817657470703
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[450726584725]": {
+            "Id": "Entity_[450726584725]",
+            "Name": "window",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 3018390450165566777,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Intensity": 0.5,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.2999999523162842
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4577039003459433476
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 4298461621658473547
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 4221154101917722089
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10948602490797251480
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 9355983486251885297
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11400147374090228202
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 5076626111270536499
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 2789003562958966448
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 11289071909804278392,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.30000001192092896,
+                            "Height": 1.2000000476837158
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 17402028972433251124,
+                    "Parent Entity": "Entity_[420661813653]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.7001161575317383,
+                            0.0,
+                            -0.056935667991638184
+                        ],
+                        "Rotate": [
+                            180.0,
+                            -39.99917984008789,
+                            180.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[455021552021]": {
+            "Id": "Entity_[455021552021]",
+            "Name": "visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 7607729437509273883
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6705423196613220887
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16724197551262999273,
+                    "Child Entity Order": [
+                        "Entity_[416366846357]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 18296519586406670404
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14148577333280851992
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12514521100002153153
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12979015682051848589
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13598578828235310160
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9020595613711558189,
+                    "Parent Entity": "Entity_[472201421205]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -0.6182255148887634
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[459316519317]": {
+            "Id": "Entity_[459316519317]",
+            "Name": "visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 7607729437509273883
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6705423196613220887
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16724197551262999273,
+                    "Child Entity Order": [
+                        "Entity_[390597042581]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 18296519586406670404
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14148577333280851992
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12514521100002153153
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12979015682051848589
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13598578828235310160
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9020595613711558189,
+                    "Parent Entity": "Entity_[394892009877]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            -0.6182255148887634
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[463611486613]": {
+            "Id": "Entity_[463611486613]",
+            "Name": "dashboard",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 18112442599838590037,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 4,
+                            "Color": [
+                                1.0,
+                                0.728892982006073,
+                                0.18666361272335052
+                            ],
+                            "Intensity": 0.20000000298023224,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.0,
+                            "LightEmitsBothDirections": true
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 18003939215067806030
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 1581939015189348572
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 10410352966184516056
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 3454233175080087613
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 17742671626449902106
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 1183794376166669442
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6689268987751622608
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 11425571681206983580
+                },
+                "LmbrCentral::EditorQuadShapeComponent": {
+                    "$type": "LmbrCentral::EditorQuadShapeComponent",
+                    "Id": 9150812968959165969,
+                    "ShapeColor": [
+                        1.0,
+                        0.728892982006073,
+                        0.18666361272335052,
+                        1.0
+                    ],
+                    "QuadShape": {
+                        "Configuration": {
+                            "Width": 0.09000000357627869,
+                            "Height": 0.4000000059604645
+                        }
+                    }
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9328406787815805569,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.39465904235839844,
+                            0.33026123046875,
+                            1.0866050720214844
+                        ],
+                        "Rotate": [
+                            179.99989318847656,
+                            71.4271469116211,
+                            -179.99989318847656
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[467906453909]": {
+            "Id": "Entity_[467906453909]",
+            "Name": "Wheel RR",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6473794874318425204
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6614724187909632932
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1835394047233612953,
+                    "Child Entity Order": [
+                        "Entity_[429251748245]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8240714201106163722
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 406490581108139709
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7665895112430571573
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10451802743475122258
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1594582421563855122
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2469973476832422352,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            -1.4203357696533203,
+                            -0.8031694889068604,
+                            1.1011857986450195
+                        ]
+                    }
+                },
+                "WheelEditorComponent": {
+                    "$type": "WheelEditorComponent",
+                    "Id": 13885267053125545807,
+                    "Configuration": {
+                        "wheelVisualEntityId": "Entity_[429251748245]",
+                        "springStiffness": 110000.0,
+                        "suspensionDamping": 8000.0,
+                        "springRestLength": 0.6200000047683716,
+                        "wheelRadius": 0.33500000834465027,
+                        "lateralFrictionC1": 1.0,
+                        "lateralFrictionC2": 2.0,
+                        "lateralFrictionC3": 1.0
+                    }
+                }
+            }
+        },
+        "Entity_[472201421205]": {
+            "Id": "Entity_[472201421205]",
+            "Name": "Wheel FL",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6473794874318425204
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6614724187909632932
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1835394047233612953,
+                    "Child Entity Order": [
+                        "Entity_[455021552021]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 8240714201106163722
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 406490581108139709
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7665895112430571573
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10451802743475122258
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1594582421563855122
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2469973476832422352,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            1.4137532711029053,
+                            0.8031694889068604,
+                            1.1011857986450195
+                        ]
+                    }
+                },
+                "WheelEditorComponent": {
+                    "$type": "WheelEditorComponent",
+                    "Id": 6603165961053158449,
+                    "Configuration": {
+                        "wheelVisualEntityId": "Entity_[455021552021]",
+                        "springStiffness": 110000.0,
+                        "suspensionDamping": 8000.0,
+                        "springRestLength": 0.6200000047683716,
+                        "wheelRadius": 0.33500000834465027,
+                        "lateralFrictionC1": 1.0,
+                        "lateralFrictionC2": 2.0,
+                        "lateralFrictionC3": 1.0
+                    }
+                }
+            }
+        },
+        "Entity_[476496388501]": {
+            "Id": "Entity_[476496388501]",
+            "Name": "in",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 18216885296071441482,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 2,
+                            "Intensity": 50.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 0.5,
+                            "Enable Shadow": true
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10532599856585604986
+                },
+                "EditorDiskShapeComponent": {
+                    "$type": "EditorDiskShapeComponent",
+                    "Id": 15276391739632654483,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "DiskShape": {
+                        "Configuration": {
+                            "Radius": 0.05000000074505806
+                        }
+                    }
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13084248621596573481
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16400913650005942726
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 12556479095705061168
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6018640719749055742
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15803210587050564768
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 17190178005879485328
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 16947478707555544392
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 15731684454514396911,
+                    "Parent Entity": "Entity_[373417173397]",
+                    "Transform Data": {
+                        "Rotate": [
+                            0.0,
+                            -90.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[480791355797]": {
+            "Id": "Entity_[480791355797]",
+            "Name": "DPG",
+            "Components": {
+                "AZ::Render::EditorDiffuseProbeGridComponent": {
+                    "$type": "AZ::Render::EditorDiffuseProbeGridComponent",
+                    "Id": 1682436085861661250,
+                    "Controller": {
+                        "Configuration": {
+                            "ProbeSpacing": [
+                                1.0,
+                                1.0,
+                                1.0
+                            ],
+                            "Extents": [
+                                20.0,
+                                20.0,
+                                8.0
+                            ],
+                            "AmbientMultiplier": 0.30000001192092896,
+                            "NumRaysPerProbe": 6,
+                            "TransparencyMode": 0
+                        }
+                    },
+                    "probeSpacingX": 1.0,
+                    "probeSpacingY": 1.0,
+                    "probeSpacingZ": 1.0,
+                    "ambientMultiplier": 0.30000001192092896,
+                    "numRaysPerProbe": 6,
+                    "transparencyMode": 0
+                },
+                "EditorBoxShapeComponent": {
+                    "$type": "EditorBoxShapeComponent",
+                    "Id": 7930437110472148872,
+                    "BoxShape": {
+                        "Configuration": {
+                            "Dimensions": [
+                                20.0,
+                                20.0,
+                                8.0
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4786846682766018297
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16296612001043304562
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 7804512593251875863
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 15963289316193215649
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13359096865149124011
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15148597145040272768
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 2436881104201262072
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3516222852975437470
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 16344594763753556637,
+                    "Parent Entity": "Entity_[442136650133]"
+                }
+            }
+        },
+        "Entity_[485086323093]": {
+            "Id": "Entity_[485086323093]",
+            "Name": "visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 9873787836913090624
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6337392214241936915
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 14732453096652231247,
+                    "Child Entity Order": [
+                        "Entity_[493676257685]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17352167241910650818
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13461813502166482477
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 15597042927014275666
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 6825309991694667067
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 15762690026844614127
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 15364561443105264695,
+                    "Parent Entity": "Entity_[446431617429]",
+                    "Transform Data": {
+                        "Rotate": [
+                            -90.0,
+                            0.0,
+                            180.0
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[489381290389]": {
+            "Id": "Entity_[489381290389]",
+            "Name": "out",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 468483830015000790,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 2,
+                            "Intensity": 800.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 40.0,
+                            "EnableShutters": true,
+                            "InnerShutterAngleDegrees": 15.71500015258789,
+                            "OuterShutterAngleDegrees": 68.5199966430664,
+                            "Enable Shadow": true,
+                            "Shadowmap Max Size": "Size2048",
+                            "Shadow Filter Method": 1,
+                            "Filtering Sample Count": 31
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6861057479734481306
+                },
+                "EditorDiskShapeComponent": {
+                    "$type": "EditorDiskShapeComponent",
+                    "Id": 14865847895352631112,
+                    "ShapeColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "DiskShape": {
+                        "Configuration": {
+                            "Radius": 0.05000000074505806
+                        }
+                    }
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6799368063914449795
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13276114936575916938
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14778505883098320264
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 59307524163134529
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16795587076641564822
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7488632914919846084
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 872822221837727210
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9061194881146187455,
+                    "Parent Entity": "Entity_[373417173397]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.004918098449707031,
+                            -0.0000019073486328125,
+                            0.27329254150390625
+                        ],
+                        "Rotate": [
+                            0.00041182636050507426,
+                            81.90272521972656,
+                            -0.0003641136281657964
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[493676257685]": {
+            "Id": "Entity_[493676257685]",
+            "Name": "steering_wheel",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 3976384228098359011,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{9C56F84F-EE48-59BD-9197-2827BA35D2F9}",
+                                    "subId": 277818607
+                                },
+                                "assetHint": "vehicles/dodge_challenger_1970_rt/models/default_dodge_challenger_1970_r_t_steering_wheel_f0729e11_9ca9_5382_bc90_efb423d5ab1b_.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 16647980221561064013
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 17510488733383582707
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5360784308936752996
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 1972831413262658451
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 6060211546735423048
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 16340316095135192977,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 724537225
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4DD102CD-B21B-53B5-8E33-0281E07FFE05}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_steering_wheel_wood_001.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 906005870
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{AF5C0845-18E6-5B78-95C4-83C25286FDD8}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_steering_wheel_blackleather.azmaterial"
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 2298761640
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{4D427CC9-A6D8-5E37-8E6A-FA0D3E541E27}"
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 3091510558
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{227E09E8-4706-569A-AE10-004C9CB022B3}"
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_cchrome.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 6418544091659260285
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 14755114816902815410
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 10280075087955858564
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 4115691714865137911,
+                    "Parent Entity": "Entity_[485086323093]",
+                    "Transform Data": {
+                        "Translate": [
+                            3.725290298461914e-9,
+                            0.0,
+                            2.7939677238464355e-9
+                        ],
+                        "Rotate": [
+                            0.000005122618404129753,
+                            0.0000012007761824861518,
+                            0.000017118520190706477
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[497971224981]": {
+            "Id": "Entity_[497971224981]",
+            "Name": "Visual",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 3736593927292161321
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6540016812928162801
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 11797974725485624453,
+                    "Child Entity Order": [
+                        "Entity_[420661813653]",
+                        "Entity_[364827238805]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17070517636633172628
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 7717953221886994735
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 836385684037639744
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10417861014170824467
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 10011567684506184292
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 13396252431874909722,
+                    "Parent Entity": "Entity_[442136650133]",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.0,
+                            0.23579861223697662
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[502266192277]": {
+            "Id": "Entity_[502266192277]",
+            "Name": "RearL",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12615228857432414035
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 7396613527619258323
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 12622179896636312193,
+                    "Child Entity Order": [
+                        "Entity_[356237304213]",
+                        "Entity_[343352402325]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17360873370414537965
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 16069576086185387856
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7205419633665936411
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 3172029176734828377
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 7404217053793238491
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 10293472287391695595,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            -2.449565887451172,
+                            -0.5012569427490234,
+                            0.9394187927246094
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[506561159573]": {
+            "Id": "Entity_[506561159573]",
+            "Name": "Inside",
+            "Components": {
+                "AZ::Render::EditorAreaLightComponent": {
+                    "$type": "AZ::Render::EditorAreaLightComponent",
+                    "Id": 7316097384983926645,
+                    "Controller": {
+                        "Configuration": {
+                            "LightType": 1,
+                            "Color": [
+                                1.0,
+                                0.9155565500259399,
+                                0.6622263193130493
+                            ],
+                            "Intensity": 5.0,
+                            "AttenuationRadiusMode": 0,
+                            "AttenuationRadius": 1.2000000476837158,
+                            "LightEmitsBothDirections": true,
+                            "Enable Shadow": true
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6086784589771811402
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 10117317659009081456
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 1759783659962330586
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 16414464502902722212
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 15984228260361516507
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 8103159403558667568
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 4916750663242361487
+                },
+                "EditorSphereShapeComponent": {
+                    "$type": "EditorSphereShapeComponent",
+                    "Id": 18152733561264448614,
+                    "ShapeColor": [
+                        1.0,
+                        0.9155565500259399,
+                        0.6622263193130493,
+                        1.0
+                    ],
+                    "SphereShape": {
+                        "Configuration": {
+                            "Radius": 0.019999999552965164
+                        }
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1773810134264428750
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 6294533676144600288,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            -0.3389015197753906,
+                            0.0,
+                            1.4851455688476563
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[510856126869]": {
+            "Id": "Entity_[510856126869]",
+            "Name": "ForntR",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6861057479734481306
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6799368063914449795
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13276114936575916938,
+                    "Child Entity Order": [
+                        "Entity_[347647369621]",
+                        "Entity_[403481944469]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14778505883098320264
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 59307524163134529
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 16795587076641564822
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 7488632914919846084
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 872822221837727210
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9061194881146187455,
+                    "Parent Entity": "Entity_[515151094165]",
+                    "Transform Data": {
+                        "Translate": [
+                            2.3701934814453125,
+                            -0.8062782287597656,
+                            0.8659553527832031
+                        ]
+                    }
+                }
+            }
+        },
+        "Entity_[515151094165]": {
+            "Id": "Entity_[515151094165]",
+            "Name": "Lights",
+            "Components": {
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 10292027250666670826
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 9410259648723044674
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13139834642694372435,
+                    "Child Entity Order": [
+                        "Entity_[510856126869]",
+                        "Entity_[373417173397]",
+                        "Entity_[399186977173]",
+                        "Entity_[502266192277]",
+                        "Entity_[506561159573]",
+                        "Entity_[463611486613]"
+                    ]
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 6212400060805366972
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4749391013537257977
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12804836616099961907
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 1517541318294864130
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 14649298506905085860
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 13022461570574222861,
+                    "Parent Entity": "Entity_[442136650133]"
+                }
+            }
+        }
+    }
+}

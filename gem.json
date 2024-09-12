@@ -1,0 +1,30 @@
+{
+    "gem_name": "SampleVehicleAssets",
+    "version": "1.0.0",
+    "display_name": "SampleVehicleAssets",
+    "license": "Apache-2.0",
+    "license_url": "https://opensource.org/licenses/Apache-2.0",
+    "origin": "Pawel Budziszewski (https://github.com/pawelbudziszewski)",
+    "origin_url": "https://github.com/pawelbudziszewski/o3de-sample-vehicle-assets",
+    "type": "Assets",
+    "summary": "A short description of this Gem",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "SampleVehicleAssets",
+        "Dodge Challenger",
+        "vehicle dynamics"        
+    ],
+    "platforms": [
+        ""
+    ],
+    "icon_path": "preview.png",
+    "requirements": "This requires VehicleDynamics other gem (https://github.com/RobotecAI/o3de-vehicle-dynamics-gem)",
+    "documentation_url": "https://github.com/pawelbudziszewski/o3de-sample-vehicle-assets",
+    "dependencies": ["VehicleDynamics"],
+    "repo_uri": "",
+    "compatible_engines": [],
+    "engine_api_dependencies": [],
+    "restricted": "SampleVehicleAssets"
+}

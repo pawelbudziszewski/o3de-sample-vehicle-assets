@@ -1,0 +1,86 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{5B99BC54-CBCA-5AF5-A5E0-053EFAE6A4E1}",
+            "name": "dodge-challenger-1970-r-t_collider",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Collider",
+                    "RootNode.Collider.DefaultMaterial",
+                    "RootNode.Collider.custom_properties",
+                    "RootNode.Collider.transform"
+                ]
+            },
+            "export method": 1,
+            "DecomposeMeshes": true,
+            "ConvexDecompositionParams": {
+                "MaxNumVerticesPerConvexHull": 16
+            },
+            "PhysicsMaterialSlots": {
+                "Slots": [
+                    {
+                        "Name": "DefaultMaterial"
+                    }
+                ]
+            }
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "dodge-challenger-1970-r-t_collider",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Collider",
+                    "RootNode.Collider.DefaultMaterial",
+                    "RootNode.Collider.custom_properties",
+                    "RootNode.Collider.transform"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{96C73113-344B-5C03-BDB5-B53455A1891C}"
+        },
+        {
+            "$type": "{41DCBEAB-203C-4A05-96FA-98E1D8A96FA1} ImportGroup"
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "default_dodge_challenger_1970_r_t_collider_D664CD55_0CD0_5839_AF76_D5767098968D_",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Collider"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "ProceduralMeshGroupRule"
+                    },
+                    {
+                        "$type": "UnmodifiableRule"
+                    },
+                    {
+                        "$type": "CoordinateSystemRule",
+                        "useAdvancedData": true
+                    },
+                    {
+                        "$type": "{6E796AC8-1484-4909-860A-6D3F22A7346F} LodRule"
+                    }
+                ]
+            },
+            "id": "{D664CD55-0CD0-5839-AF76-D5767098968D}"
+        },
+        {
+            "$type": "PrefabGroup",
+            "name": "Assets/Vehicles/Dodge_Challenger_1970_rt/Models/dodge-challenger-1970-r-t_collider_fbx.procprefab",
+            "id": "{671638A9-0CFA-5A57-9926-D690C1E7E387}"
+        }
+    ]
+}

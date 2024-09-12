@@ -1,0 +1,27 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "textures/tire_side_color.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "normal.factor": 0.4399999976158142,
+        "normal.flipX": true,
+        "normal.flipY": true,
+        "normal.textureMap": "textures/tire_side_normal.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.4399999976158142,
+        "specularF0.factor": 0.2199999988079071
+    }
+}

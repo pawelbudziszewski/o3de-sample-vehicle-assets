@@ -1,0 +1,22 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "metallic.factor": 0.5799999833106995,
+        "normal.factor": 1.6399999856948853,
+        "normal.flipX": true,
+        "normal.flipY": true,
+        "normal.textureMap": "textures/challenger_inner_frontlight_normal.png",
+        "opacity.factor": 1.0,
+        "opacity.mode": "Blended",
+        "roughness.factor": 0.5799999833106995,
+        "specularF0.factor": 0.8799999952316284
+    }
+}

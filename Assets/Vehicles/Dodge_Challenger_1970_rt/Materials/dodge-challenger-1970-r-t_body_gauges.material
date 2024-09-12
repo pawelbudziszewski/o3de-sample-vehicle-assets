@@ -1,0 +1,15 @@
+{
+    "materialType": "@projectroot@/Cache/Intermediate Assets/materials/types/standardpbr_generated.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.factor": 0.15000000596046448,
+        "baseColor.textureBlendMode": "Overlay",
+        "baseColor.textureMap": "textures/gauges_colors.png",
+        "emissive.intensity": -1.600000023841858,
+        "emissive.textureMap": "textures/gauges_colors.png",
+        "normal.textureMap": "textures/gauges_normal.png",
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.17000000178813934,
+        "specularF0.factor": 1.0
+    }
+}
