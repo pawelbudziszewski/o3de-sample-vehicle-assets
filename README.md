@@ -14,10 +14,10 @@ At the moment it contains one model: a Dodge Challenger 1970 R/T.
 
 These assets were tested using:
 - Vehicle Dynamics Gem ver. 1.0.0
-- O3DE ver. 23.20.3
-- Ubuntu Linux 22.04
+- O3DE ver. 23.20.3, 24.9.0 (stabilization)
+- Windows 11, Ubuntu Linux 22.04
 
-This gem should work with newer versions of Vehicle Dynamics Gem (unless they introduce breaking changes). It should also work with any version of O3DE supported by the Vehicle Dynamics Gem. I see no reason it shouldn't run on Windows, but I haven't tested it yet.
+This gem should work with newer versions of Vehicle Dynamics Gem (unless they introduce breaking changes).
 
 ## Usage
 
