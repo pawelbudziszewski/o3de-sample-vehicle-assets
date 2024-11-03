@@ -2767,7 +2767,7 @@
                         "Rotation": [
                             0.0,
                             0.0,
-                            0.7071067690849304,
+                            -0.7071067690849304,
                             0.7071067094802856
                         ],
                         "MaterialSlots": {
@@ -3726,7 +3726,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{4D427CC9-A6D8-5E37-8E6A-FA0D3E541E27}"
-                                            }
+                                            },
+                                            "assetHint": "vehicles/dodge_challenger_1970_rt/materials/dodge-challenger-1970-r-t_body_plastic.azmaterial"
                                         }
                                     }
                                 },
