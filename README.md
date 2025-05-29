@@ -13,8 +13,8 @@ At the moment it contains one model: a Dodge Challenger 1970 R/T.
 ## Requirements
 
 These assets were tested using:
-- Vehicle Dynamics Gem ver. 1.0.0 (commit [fadb47e](https://github.com/RobotecAI/o3de-vehicle-dynamics-gem/commit/fadb47ed53be8063f6f05c960470991a18b793aa))
-- O3DE ver. 23.20.3, 24.9.0, 24.9.1
+- Vehicle Dynamics Gem ver. 1.0.0
+- O3DE ver. 23.20.3, 24.9.0, 24.9.1, 25.05
 - Windows 11, Ubuntu Linux 22.04
 
 This gem should work with newer versions of Vehicle Dynamics Gem (unless they introduce breaking changes).
